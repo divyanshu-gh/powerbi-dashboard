@@ -68,7 +68,7 @@ Dashboard Preview:
 ![Dashboard](full_dashboard.jpg)
 
 ---
-##This project is available as a downloadable .pbix file. Due to Power BI Service restrictions, it is not published live online.
+## This project is available as a downloadable .pbix file. Due to Power BI Service restrictions, it is not published live online.
 
 
 
