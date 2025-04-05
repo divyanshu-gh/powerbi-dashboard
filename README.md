@@ -65,7 +65,9 @@ Saved as `sample_sales_dataset.csv` and loaded into Power BI.
 
 Dashboard Preview:
 
-![Dashboard](powerbi_dashboard\full_dashboard.jpg)
+![Dashboard](full_dashboard.jpg)
+
+##This project is available as a downloadable .pbix file. Due to Power BI Service restrictions, it is not published live online.
 
 
 
